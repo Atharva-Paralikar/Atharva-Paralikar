@@ -2,7 +2,7 @@
 
 I am Atharva, 
 
-- 🔭 I’m currently completing my Masters in Engineering at University of Maryland, College Park
+- 🔭 I’m currently completing my Masters in Engineering Robotics at University of Maryland, College Park
 - 📫 How to reach me: atharva.paralikar@gmail.com
 - 😄 Pronouns: him/his
 <!--
