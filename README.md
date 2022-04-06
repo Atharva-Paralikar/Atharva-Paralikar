@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Atharva, 
+
+- 🔭 I’m currently completing my Masters in Engineering at University of Maryland, College Park
+- 📫 How to reach me: atharva.paralikar@gmail.com
+- 😄 Pronouns: him/his
 <!--
 **Atharva-Paralikar/Atharva-Paralikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
